@@ -1,3 +1,3 @@
-# BMI (Body Mass Index) Calculator
-Gunakan kalkulator ini untuk mengecek apakah berat badan Anda ideal atau tidak.
+# Proyek 1 Pemrograman WEB 2
+BMI (Body Mass Index) Calculator
 https://kreasi.nurulfikri.ac.id/jund21079ti/bmi/
